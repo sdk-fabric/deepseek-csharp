@@ -1,0 +1,9 @@
+{
+  "type": "client-csharp",
+  "require": {
+    "sdkfabric/deepseek": {
+      "target": "./src/SdkFabric.Deepseek",
+      "namespace": "SdkFabric.Deepseek"
+    }
+  }
+}
